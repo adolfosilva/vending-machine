@@ -1,0 +1,9 @@
+[package]
+name = "vending-machine"
+version = "0.1.0"
+authors = ["Adolfo Silva <code@adolfosilva.org>"]
+
+[dependencies]
+actix = "~0.7.5"
+futures = "~0.1.25"
+rust_decimal = "~0.10.1"
